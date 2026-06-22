@@ -1,4 +1,4 @@
-a subfield of artificial intelligence (AI) that enables computers to learn from data and identify patterns without being explicitly programmed for a specific task. 
+Machine learning: is a subfield of artificial intelligence (AI) that enables computers to learn from data and identify patterns without being explicitly programmed for a specific task. 
  Instead of relying on hard-coded instructions, ML models use algorithms to digest vast amounts of information and improve their predictions over time.
 Core Categories of Machine Learning
 
