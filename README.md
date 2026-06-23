@@ -1,24 +1,27 @@
-Machine learning: is a subfield of artificial intelligence (AI) that enables computers to learn from data and identify patterns without being explicitly programmed for a specific task. 
- Instead of relying on hard-coded instructions, ML models use algorithms to digest vast amounts of information and improve their predictions over time.
-Core Categories of Machine Learning
+## NLP
 
-Supervised Learning: The model is trained on labeled data (where the correct answer is already known) so it can predict outcomes for new, unseen data.Example: Predicting house prices or categorizing emails as "spam" or "safe".
-Unsupervised Learning: The algorithm analyzes unstructured data to find hidden structures, clusters, or patterns without human guidance.Example: Segmenting customers into groups based on purchasing behavior.
-Reinforcement Learning: The algorithm learns by trial and error through a system of rewards and penalties, optimizing its actions to achieve a specific goal.Example: Training autonomous vehicles or creating game-playing AI.
+**Natural Language Process** (NLP) is a field of AI that helps computers understand, interpret, and communicate with human language. 
 
-How ML Works in PracticeBuilding
+### NLP work by following a set of steps some of which include:
+- Input, be it receiving data as text or speech
+- Pre-processing received input into standardized, less characterized, smaller units
+- Language analysis which groups input into similar structured fragments 
+  - Proceeded by converting text into numerical vectors which is processed by the machine
+- Model training, by learning patterns 
 
-a machine learning model follows a standard workflow:
+### Some NLP tasks include:
+1. Text classification
+2. Sentiment analysis
+3. Machine translation
+4. Named Entity Recognition
+5. Text summarization
+6. Question answering
 
-Data Collection & Cleaning: Gathering high-quality raw data to feed into the model, ensuring there are no errors or missing information.
-Feature Engineering:Transforming raw data into usable variables or features that the algorithm can understand.
-Training & Testing: Splitting the data to teach the model while saving a portion to test its accuracy.
-Deployment: Integrating the finalized model into real-world applications so it can process live data.
+### Applications of NLP range from:
+- Voice assistants like Alexa
+- Chatbots in customer service
+- Email spam filtering
+- Auto-correct and predictive texting
+- Language translation tools
 
-Common Real-World Applications
-
-Machine learning powers many of the tools and conveniences we use every day, including:
-
-Recommendation Systems: Platforms like YouTube use ML to curate personalized content feeds.
-Natural Language Processing (NLP): Generative AI and intelligent chatbots interpret and generate human language
-Computer Vision: Facial recognition in smartphone cameras relies on ML to identify contours and verify identity.
+> Despite its numerous benefits NLP is not without its *challenges*, the likes of; biased training, misinterpretation, new vocabulary, and tone of voice.
