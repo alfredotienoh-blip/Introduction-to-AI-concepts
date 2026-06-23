@@ -1,0 +1,91 @@
+# Introduction to Artificial Intelligence (AI) concepts
+
+A collaborative guide by: ## 1. Alfred Otieno
+                          ## 2. Stewart000
+                          ## 3. Gili-igan
+                          ## 4. Bol-kiir
+
+## Table of Contents
+
+1. ### Machine Learning
+
+2. ### Natural Language Processing
+
+3. ### Neural Networks
+
+4. ### Computer Vision
+
+## Introduction
+
+This guide covers tools that every student should know about.
+A different team member writes each section.
+
+## Machine Learning-
+
+<!-- [Alfred Otieno] will write this section -->
+
+## Natural Language Processing-
+<!-- [Stewart000] will write this section -->
+
+## Neural Networks-
+<!-- [Gill-igan] will write this section -->
+
+## Computer Vision-
+<!-- [Bol-Kiir] will write this section -->
+
+  **Introduction to Artificial Intelligence;**
+
+In its most general form, artificial intelligence (AI) is defined as the ability of a computer or a robot controlled by a computer to perform various tasks in a manner similar to intelligent beings.
+
+ **Narrow AI vs General AI;**
+
+**Narrow AI;**
+ It is effective only in the specific areas it has been trained for, unlike human intelligence; it deals with a specific system and a specific problem. For example: Fraud detection, facial recognition, or social recommendations.
+
+ **General AI;**
+Although it does not exist, General AI is expected to function like human intelligence. The main challenge in creating General AI is modelling the world in a consistent and useful way with its entire body of knowledge.
+
+**Machine Learning;**
+a subfield of artificial intelligence (AI) that enables computers to learn from data and identify patterns without being explicitly programmed for a specific task. Instead of relying on hard-coded instructions, ML models use algorithms to digest vast amounts of information and improve their predictions over time.
+Core Categories of Machine Learning
+
+*Supervised Learning;*
+The model is trained on labeled data (where the correct answer is already known) so it can predict outcomes for new, unseen data. Example: Predicting house prices or categorizing emails as "spam" or "safe".
+
+ *Unsupervised Learning;*
+The algorithm analyzes unstructured data to find hidden structures, clusters, or patterns without human guidance. Example: Segmenting customers into groups based on purchasing behavior.
+
+*Reinforcement Learning;*
+The algorithm learns by trial and error through a system of rewards and penalties, optimizing its actions to achieve a specific goal. Example: Training autonomous vehicles or creating game-playing AI.
+
+## How ML Works in Practice Building
+
+A machine learning model follows a standard workflow:
+
+ **Data Collection & Cleaning;**
+Gathering high-quality raw data to feed into the model, ensuring there are no errors or missing information.
+
+ **Feature Engineering;**
+Transforming raw data into usable variables or features that the algorithm can understand.
+
+ **Training & Testing;**
+Splitting the data to teach the model while saving a portion to test its accuracy.
+
+ **Deployment;**
+Integrating the finalized model into real-world applications so it can process live data.
+
+*Common Real-World Applications;*
+
+Machine learning powers many of the tools and conveniences we use every day, including:
+
+### Recommendation Systems
+
+Platforms like YouTube use ML to curate personalized content feeds.
+
+### Natural Language Processing (NLP)
+
+Generative AI and intelligent chatbots interpret and generate human language.
+
+### Computer-Vision
+
+Facial recognition in smartphone cameras relies on ML to identify contours and verify identity.
