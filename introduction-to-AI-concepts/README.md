@@ -1,3 +1,29 @@
+ improve-documentation-formatting
+ 
+## Improve Spacing
+
+**Leave a blank line:**
+
+- After each heading
+- Between paragraphs
+- Before and after lists
+
+## Use Bullet Points Where Necessary
+
+**Applications include:**
+
+- Image recognition
+- Speech recognition
+- Medical diagnosis
+
+## Ensure Consistent Markdown
+
+**Be consistent in:**
+
+- Headings (#, ##, ###)
+- Bullet points (-)
+- Capitalisation
+
 ## Healthcare and Lifesciences
 
 - Medical Imaging Diagnostics
@@ -21,4 +47,4 @@
 - Agentic Cybersecurity
 - Predictive Navigation
 - Hyper-Personalised Retail
-- Localised Customer Support
+- Localised Customer
