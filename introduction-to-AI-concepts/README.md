@@ -1,3 +1,5 @@
+add-neuralnetworks-sectionorigin/git-checkout--b-add-neuralnetworks-section
+
 ## Definition od Neural Networks
 
 **A Neural Network** is a computer system inspired by the way the human brain processes information. It consists of interconnected nodes called neurons that work together to learn patterns from data, make decisions and solve problems.
@@ -44,33 +46,41 @@ Without neural networks, many of today's advanced AI systems would not be possib
 ## Real-World Applications of Neural Networks
 
 1. Image Recognition
+
 Used to identify objects, faces, and scenes in images.
 Example: Facial recognition systems on smartphones.
 
 2. Speech Recognition
+
 Converts spoken words into text.
 Example: Voice assistants like Siri and Google Assistant.
 
 3. Healthcare
+
 Helps doctors detect diseases from X-rays, MRIs, and medical records.
 Example: Early detection of cancer through medical imaging.
 
 4. Self-Driving Cars
+
 Recognize road signs, pedestrians, vehicles, and traffic conditions.
 Example: Autonomous driving systems.
 
 5. Recommendation Systems
+
 Suggest products, movies, music, and videos based on user preferences.
 Example: Netflix, YouTube, and Amazon recommendations.
 
 6. Fraud Detection
+
 Identifies suspicious financial transactions.
 Example: Banks detecting credit card fraud.
 
 7. Natural Language Processing (NLP)
+
 Enables computers to understand and generate human language.
 Example: Chatbots and language translation tools.
 
 8. Agriculture
+
 Monitors crop health, predicts yields, and optimizes irrigation.
 Example: Smart farming systems that detect plant diseases and manage water usage.
